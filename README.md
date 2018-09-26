@@ -1,4 +1,4 @@
-# Python Journal
+# Python Journal (Python 2)
 -----------------------------------------------------------------------------------------------
 
 This is my very first python project. The program opens and writes information to files.
